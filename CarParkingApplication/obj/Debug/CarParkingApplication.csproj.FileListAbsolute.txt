@@ -85,3 +85,27 @@ C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarP
 C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.pdb
 C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csprojResolveAssemblyReference.cache
 C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Home_Admin_.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\CarParkingApplication.exe.config
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.exe
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.pdb
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\x64\liblept172.dll
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\x64\libtesseract304.dll
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\x86\liblept172.dll
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\x86\libtesseract304.dll
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\CarParkingApplication.exe
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\CarParkingApplication.pdb
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\MetroFramework.Design.dll
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\MetroFramework.dll
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\Tesseract.dll
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Driver.Enroller.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Driver.RegisterDriver.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.Login.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.EmployeeView.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.NewEmployee.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.Home_Admin_.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.Home_User_.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.Properties.Resources.resources
+C:\Users\Juliet\Documents\GitHub\DesktopApp\CarParkingApplication\obj\Debug\CarParkingApplication.csproj.GenerateResource.Cache
