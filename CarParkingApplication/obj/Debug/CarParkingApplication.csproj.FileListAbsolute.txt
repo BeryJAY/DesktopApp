@@ -1,0 +1,87 @@
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.exe.config
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.exe
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.pdb
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.Design.dll
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.dll
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.Fonts.dll
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csprojResolveAssemblyReference.cache
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Form1.resources
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Properties.Resources.resources
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csproj.GenerateResource.Cache
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.exe
+c:\users\stek3\documents\visual studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.pdb
+C:\Users\Stek3\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Stek3\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stek3\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stek3\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Home.resources
+C:\Users\Stek3\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.EmployeeView.resources
+C:\Users\Stek3\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.NewEmployee.resources
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.exe.config
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.exe
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.pdb
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.exe
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.pdb
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.Design.dll
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.dll
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\Tesseract.dll
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Form1.resources
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.EmployeeView.resources
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.NewEmployee.resources
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Home.resources
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Home_User_.resources
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Properties.Resources.resources
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csproj.GenerateResource.Cache
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\x64\liblept172.dll
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\x64\libtesseract304.dll
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\x86\liblept172.dll
+C:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\x86\libtesseract304.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.exe.config
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.exe
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.pdb
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\x64\liblept172.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\x64\libtesseract304.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\x86\liblept172.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\x86\libtesseract304.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.exe
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.pdb
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.Design.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.Fonts.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\Tesseract.dll
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\bin\Debug\Newtonsoft.Json.xml
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csprojResolveAssemblyReference.cache
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Form1.resources
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.EmployeeView.resources
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.NewEmployee.resources
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Home.resources
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Home_User_.resources
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Properties.Resources.resources
+G:\Users\Stek3\Desktop\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csproj.GenerateResource.Cache
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\x64\liblept172.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\x64\libtesseract304.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\x86\liblept172.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\x86\libtesseract304.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.exe.config
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.exe
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\CarParkingApplication.pdb
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.Design.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\Tesseract.dll
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Driver.Enroller.resources
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Driver.RegisterDriver.resources
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Login.resources
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.EmployeeView.resources
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Forms.Employees.NewEmployee.resources
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Home_User_.resources
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Properties.Resources.resources
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csproj.GenerateResource.Cache
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.exe
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.pdb
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Juliet\Documents\Visual Studio 2015\Projects\CarParkingApplication\CarParkingApplication\obj\Debug\CarParkingApplication.Home_Admin_.resources
